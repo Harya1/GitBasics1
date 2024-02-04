@@ -1,0 +1,3 @@
+#Ignoring all settings.json file and app.config 
+app.config
+settings.json
